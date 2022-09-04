@@ -1,7 +1,7 @@
 class ProductRepository {
   getProducts() {
     let result = '';
-    fetch('https://kihoonahn1.github.io/emart/images/products.json')
+    fetch('https://github.com/KiHoonAhn1/emart_page/tree/master/public/images/products.json')
       .then(res => res.json())
       .then(res => res["data"])
       .then(res => {
