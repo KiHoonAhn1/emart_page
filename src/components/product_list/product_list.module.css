@@ -1,0 +1,21 @@
+.product_list {
+  width: 100%;
+  padding-top: 40px;
+}
+
+h1 {
+  font-size: 1rem;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.more {
+  color: rgb(159, 159, 159);
+  font-size: 1.1em;
+  font-weight: bold;
+  cursor: pointer;
+}

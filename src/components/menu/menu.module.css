@@ -1,0 +1,30 @@
+.menu_list {
+  position: sticky;
+  top: 40px;
+  height: 30px;
+  background: white;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -ms-overflow-style: none;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.5);
+  margin: 0 0 30px 0;
+}
+
+.menu_list::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.menu {
+  font-weight: bolder;
+  margin-right: 1em;
+  color: grey;
+}
+
+.menu.active {
+  display: inline-block;
+  color: black;
+  height: 95%;
+  border-bottom: 3em solid black;
+}

@@ -1,0 +1,19 @@
+.header {
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  width: calc(100% - 30px);
+  height: 40px;
+  background: white;
+  align-items: center;
+}
+
+.img {
+  height: 25px;
+  padding: 0 3px;
+}
+
+.title {
+  font-weight: bolder;
+  line-height: 10px;
+}
