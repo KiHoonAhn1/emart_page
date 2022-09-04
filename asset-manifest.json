@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/emart/static/css/main.868f6a51.css",
-    "main.js": "/emart/static/js/main.cfcf3993.js",
-    "static/js/787.76b72599.chunk.js": "/emart/static/js/787.76b72599.chunk.js",
-    "index.html": "/emart/index.html",
-    "main.868f6a51.css.map": "/emart/static/css/main.868f6a51.css.map",
-    "main.cfcf3993.js.map": "/emart/static/js/main.cfcf3993.js.map",
-    "787.76b72599.chunk.js.map": "/emart/static/js/787.76b72599.chunk.js.map"
+    "main.css": "/emart_page/static/css/main.868f6a51.css",
+    "main.js": "/emart_page/static/js/main.475cd470.js",
+    "static/js/787.76b72599.chunk.js": "/emart_page/static/js/787.76b72599.chunk.js",
+    "index.html": "/emart_page/index.html",
+    "main.868f6a51.css.map": "/emart_page/static/css/main.868f6a51.css.map",
+    "main.475cd470.js.map": "/emart_page/static/js/main.475cd470.js.map",
+    "787.76b72599.chunk.js.map": "/emart_page/static/js/787.76b72599.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.868f6a51.css",
-    "static/js/main.cfcf3993.js"
+    "static/js/main.475cd470.js"
   ]
 }
